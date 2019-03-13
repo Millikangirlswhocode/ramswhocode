@@ -1,13 +1,39 @@
+body{
+    margin: 0 auto;
+    background-color: navy;
+    color: white;
+}
+div{
+    padding: 0px 150px 30px 150px;
+}
+h2{
+    text-align: center;
+}
+header{
+    background-image: url("https://cdn.pixabay.com/photo/2014/10/05/19/02/binary-code-475664_1280.jpg");
+    background-size: contain;
+    text-align: center;
+}
 li{
-    display: inline-block;
+    float: left;
     padding: 0px 200px 0px 200px;
     color: black;
 }
 ul {
     padding: 10px;
-    list-style-position: inside;
+    list-style: none;
     text-align: center;
 }
+.headh1{
+    color: white;
+    font-size: 50px;
+    margin: 0;
+}
 .headerul{
-  background: rgba(255, 255, 255, .7);
+    background: rgba(255, 255, 255, .6);
+    background-size: cover;
+    padding: 10px 0px 25px 0px;
+}
+.left-align{
+    text-align: left;
 }
