@@ -1,11 +1,12 @@
 li{
-    display: block;
+    display: inline-block;
     padding: 0px 200px 0px 200px;
-    color: white;
+    color: black;
 }
 ul {
     padding: 10px;
     list-style-position: inside;
+    text-align: center;
 }
 .headerul{
   background: rgba(255, 255, 255, .7);
