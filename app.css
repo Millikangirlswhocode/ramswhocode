@@ -15,10 +15,10 @@ header{
     background-size: contain;
     text-align: center;
 }
-/*iframe{
+iframe{
     display: block;
     padding: 0px 150px 0px 150px;
-}*/
+}
 li{
     float: left;
     color: black;
