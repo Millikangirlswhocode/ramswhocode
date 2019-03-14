@@ -16,7 +16,7 @@ header{
 }
 iframe{
     display: block;
-    text-align: center;
+    padding: 0px 150px 0px 150px;
 }
 li{
     float: left;
