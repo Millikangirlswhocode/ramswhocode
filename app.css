@@ -20,7 +20,7 @@ header{
 }*/
 li{
     float: left;
-    padding: 0px 200px 40px 200px;
+    padding: 0px 200px 0px 200px;
     color: black;
 }
 ul {
@@ -36,7 +36,7 @@ ul {
 .headerul{
     background: rgba(255, 255, 255, .6);
     background-size: cover;
-    padding: 10px 0px 35px 0px;
+    padding: 10px 0px 15px 0px;
 }
 .left-align{
     text-align: left;
