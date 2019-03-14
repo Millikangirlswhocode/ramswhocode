@@ -4,9 +4,10 @@ body{
     color: white;
 }
 div{
-    padding: 20px 150px 30px 150px;
+    padding: 0px 150px 30px 150px;
 }
 h2{
+    padding-top: 10px;
     text-align: center;
 }
 header{
@@ -20,13 +21,11 @@ header{
 }*/
 li{
     float: left;
-    padding: 0px 200px 0px 200px;
     color: black;
 }
 ul{
     padding: 10px;
     list-style: none;
-    text-align: center;
 }
 .headh1{
     color: white;
@@ -36,7 +35,13 @@ ul{
 .headerul{
     background: rgba(255, 255, 255, .6);
     background-size: cover;
-    padding: 10px 0px 30px 0px;
+    padding: 5px 0px 50px 0px;
+}
+.home{
+    padding: 0px 20px 0px 320px;
+}
+.about{
+    padding: 0px 20px 0px 300px;
 }
 .left-align{
     text-align: left;
@@ -51,14 +56,14 @@ ul{
     background-image: -ms-linear-gradient(top, #FFD700, #AB8C13);
     background-image: -o-linear-gradient(top, #FFD700, #AB8C13);
     background-image: linear-gradient(to bottom, #FFD700, #AB8C13);
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
     color: #FFFFFF;
     font-family: Arial;
-    font-size: 40px;
+    font-size: 17px;
     font-weight: 100;
-    padding: 40px;
+    padding: 12px;
     border: solid #000000 1px;
     text-decoration: none;
     display: inline-block;
@@ -74,27 +79,28 @@ ul{
     background-image: linear-gradient(to bottom, #3F99FF, #275E9C);
     text-decoration: none;
 }
-}
+
 /*About*/
 .aboutBtn {
-    background: #FFD700;
-    background-image: -webkit-linear-gradient(top, #FFD700, #AB8C13);
-    background-image: -moz-linear-gradient(top, #FFD700, #AB8C13);
-    background-image: -ms-linear-gradient(top, #FFD700, #AB8C13);
-    background-image: -o-linear-gradient(top, #FFD700, #AB8C13);
-    background-image: linear-gradient(to bottom, #FFD700, #AB8C13);
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    color: #FFFFFF;
-    font-family: Arial;
-    font-size: 40px;
-    font-weight: 100;
-    padding: 40px;
-    border: solid #000000 1px;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
+    background: #FFD700;
+    background-image: -webkit-linear-gradient(top, #FFD700, #AB8C13);
+    background-image: -moz-linear-gradient(top, #FFD700, #AB8C13);
+    background-image: -ms-linear-gradient(top, #FFD700, #AB8C13);
+    background-image: -o-linear-gradient(top, #FFD700, #AB8C13);
+    background-image: linear-gradient(to bottom, #FFD700, #AB8C13);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 100;
+    padding: 12px;
+    border: solid #000000 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
 }
 
 .aboutBtn:hover {
@@ -106,5 +112,3 @@ ul{
     background-image: linear-gradient(to bottom, #3F99FF, #275E9C);
     text-decoration: none;
 }
-
-
