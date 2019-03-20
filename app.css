@@ -78,7 +78,7 @@ ul{
     cursor: pointer;
 }
 
-.homeBtn:hover {
+/*.homeBtn:hover {
     background: #3F99FF;
     background-image: -webkit-linear-gradient(top, #3F99FF, #275E9C);
     background-image: -moz-linear-gradient(top, #3F99FF, #275E9C);
@@ -87,7 +87,7 @@ ul{
     background-image: linear-gradient(to bottom, #3F99FF, #275E9C);
     text-decoration: none;
 }
-
+*/
 /*About*/
 .aboutBtn {
     background: #FFD700;
@@ -111,7 +111,7 @@ ul{
 }
 }
 
-.aboutBtn:hover {
+/*.aboutBtn:hover {
     background: #3F99FF;
     background-image: -webkit-linear-gradient(top, #3F99FF, #275E9C);
     background-image: -moz-linear-gradient(top, #3F99FF, #275E9C);
@@ -119,4 +119,4 @@ ul{
     background-image: -o-linear-gradient(top, #3F99FF, #275E9C);
     background-image: linear-gradient(to bottom, #3F99FF, #275E9C);
     text-decoration: none;
-}
+}*/
