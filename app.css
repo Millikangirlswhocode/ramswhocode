@@ -113,8 +113,8 @@ ul{
 
 .aboutBtn:hover {
     background: #3F99FF;
-    background-image: -webkit-linear-gradient(top, #3F99FF, #275E9C);
-    background-image: -moz-linear-gradient(top, #3F99FF, #275E9C);
+    background-image: -webkit-linear-gradient(top, #3F99FF, #275E9C);
+    background-image: -moz-linear-gradient(top, #3F99FF, #275E9C);
     background-image: -ms-linear-gradient(top, #3F99FF, #275E9C);
     background-image: -o-linear-gradient(top, #3F99FF, #275E9C);
     background-image: linear-gradient(to bottom, #3F99FF, #275E9C);
