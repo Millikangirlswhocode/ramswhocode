@@ -56,6 +56,7 @@ ul{
 .left-align{
     text-align: left;
     text-align: top;
+    height: 400px;
 }
 .media{
     color: white;
