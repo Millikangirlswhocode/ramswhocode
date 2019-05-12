@@ -51,7 +51,7 @@ ul{
     padding: 0px 20px 0px 320px;
 }
 .about{
-    padding: 0px 20px 0px 300px;
+    padding: 0px 20px 0px 320px;
 }
 .left-align{
     text-align: left;
@@ -114,7 +114,6 @@ ul{
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
-}
 }
 
 .aboutBtn:hover {
