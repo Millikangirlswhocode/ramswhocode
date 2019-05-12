@@ -23,6 +23,12 @@ iframe{
     display: block;
     padding: 0px 150px 0px 150px;
 }
+img{
+    border-radius: 15px;
+    border-color: #FFD700;
+    border-style: solid;
+    border-width: 3px;
+}
 li{
     float: left;
     color: black;
@@ -53,7 +59,6 @@ ul{
 .media{
     color: white;
 }
-
 
 /*Buttons*/
 /*Home Button*/
